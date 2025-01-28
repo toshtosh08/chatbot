@@ -1,2 +1,2 @@
 "# chatbot" 
-# add you API token in "your API key"
+# add you OPEN API token in "your API key"
